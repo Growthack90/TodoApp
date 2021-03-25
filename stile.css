@@ -1,1 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&display=swap');
+
+body{
+    justify-content: center;
+    display: flex;
+    font-family: 'Bitter', serif;
+    background-color:lavender;
+}
+
+.main{
+    width: 300px;
+    padding: 15px;
+    background-color: rgb(177, 169, 169);
+}
+
+h1{
+    text-align: center;
+    color: navy;
+    margin: 10px;
+}
